@@ -1,8 +1,6 @@
 # Happiness_report
+In this case study, we have been handed over a data that contains happiness score and
+rank for various countries in the world along with their other attributes.
 
-In this project, we will train a Linear Regression model and AWS
-Sagemaker Linear Learner to predict the life expectancy.
-
-This data was initially obtained WHO and United Nations Website. Data contains
-features like year, status, life expectancy, adult mortality, infant deaths, percentage
-of expenditure, alcohol etc.
+Our aim of the project is to cluster these countries based on other attributes to
+understand more about the countries and their associated scores.
